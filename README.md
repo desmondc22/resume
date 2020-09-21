@@ -61,7 +61,7 @@ Jan 2005 – Jun 2005
 * Gathered client’s requirements and helped to create the functional requirement spec (FRS)
 
 ### Software Engineer	
-#### 415station - San Francisco
+#### 415station.com - San Francisco
 Jun 2003 – Mar 2005
 * Implemented the company website and forum (LAMP Stack), which mission is to gather Chinese in the Bay Area through activities and events, and online forum 
 
